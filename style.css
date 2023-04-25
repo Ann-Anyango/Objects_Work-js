@@ -1,0 +1,200 @@
+
+.body{
+  background-color: black;
+}
+.Home{
+     background-color:black;
+    text-decoration-color: aliceblue;
+    color: white;
+}
+
+#green{
+    color: lawngreen;
+    /* border-radius: 10px;
+    padding: 15px; */
+
+}
+.gree{
+  color: #e9ecef;
+}
+
+
+ul{
+  display: flex;
+  list-style: none;
+  justify-content: space-between;
+}
+li{
+
+}
+/* .nav-bar ul li {
+    margin: 150px;
+    padding:10% ;
+    margin: 25px; */
+
+/* } */
+.Wallet {
+    padding-left: 12%;
+    background-color: #8ce99a;
+    /* margin: 20%;
+    padding: 12px; */
+    border-radius: 10px;
+    padding: 15px;
+
+}
+.contan{
+  color: #e9ecef;
+  margin: 5%;
+}
+.containt{
+   display: flex;
+}
+.form{
+  margin-bottom: 10%;
+  margin-left: 10%;
+}
+.sec{
+    color: #b2f2bb;
+}
+.cry{
+    color: #a5d8ff;
+}
+.get{
+    padding: 12px ;
+    background-color:#94d82d ;
+
+}
+.navv{
+    background-color: #94d82d;
+    color: #e9ecef;
+}
+ .navv ul{
+    
+    list-style: none;
+    color: white;
+  }
+ .navv li {
+      margin: 120px;
+      padding:5% ;
+      margin: 20px;
+      gap: 12px; 
+     
+  }
+  .time{
+    color: #212529;
+    font-family: 'Quicksand', sans-serif;
+  }
+  .laces{
+
+  }
+  .Buy{
+    color: #b2f2bb;
+    margin: 5%;
+  }
+  .tye{
+    margin: 5%;
+  }
+  .table9{
+    color:white;
+    width: 150%;
+    justify-content: space-between;
+    height: 30%;
+    margin: 5%;
+    
+   
+
+  }
+  .buyes{
+    background-color:#f06595 ;
+    border-radius: 12px;
+    padding: 25px;
+   height: 30px;
+  
+   
+  }
+  .buye{
+    margin: 10px;
+    padding: 11px;
+    border-radius: 20px;
+    background-color:black;
+    color: #e9ecef;
+
+  }
+  .Trade{
+    border-radius: 12px;
+    padding: 25px;
+   height: 30px;
+   background-color: #94d82d;
+   margin: 5%;
+
+  
+  }
+  .invest{
+   color: #94d82d;
+  }
+ .proyection{
+     margin-left:50%;
+     margin-top: -25%; 
+
+  } 
+  .For{
+     
+    margin-top: 20%; 
+
+   }
+.expore{
+  border-radius: 12px;
+    padding: 25px;
+   height: 30px;
+   background-color: #94d82d;
+
+
+}
+.country{
+  margin-left: 50%;
+  margin-top: -20%;
+}
+.invest{
+  /* margin-left: 90%; */
+  /* margin-top: -15%; */
+}
+.pair{
+  display: flex;
+  gap: 20%;
+  margin: 5%;
+}
+.mobile{
+  color: #94d82d;
+}
+.phone{
+  display: flex;
+}
+.new{
+  text-align: center;
+  background-color:#212529 ;
+  color: #e9ecef;
+}
+.google{
+  border-radius: 10px;
+    padding: 15px;
+   /* height: 30px; */
+
+}
+.App{
+  border-radius: 10px;
+    padding: 15px;
+   
+   
+
+}
+.get{
+  border-radius: 12px;
+    padding: 25px;
+   height: 30px;
+   background-color: #94d82d;
+
+}
+.end{
+  display: flex;
+  gap: 10%;
+}
